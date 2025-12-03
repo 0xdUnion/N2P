@@ -1,11 +1,9 @@
-!> 高糖内容，谨慎鉴赏
+# 主线任务
 
-首先找一个没人的地方（新的文件夹），你也不想你的同学一起被传送到异世界对吧？
+文档⬇️
 
-《带着vscode勇闯异世界的手册》说，你需要安装`Vue (Official)`这个插件才能龙傲天
+https://cn.vuejs.org/guide/introduction.html
 
-带好`Vue (Official)`了吗？拿起你的终端，进入异世界⬇️
+航电的Vue与Express快速入门⬇️
 
-呃，如果没进的话请手动点击
-
-[进入异世界](vue/第一个项目.md)
+https://hdu-cs.wiki/4.WEB%E6%A8%A1%E5%9D%97/4.3%20Vue%E4%B8%8EExpress%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/4.3.0%20%E7%AE%80%E4%BB%8B.html
